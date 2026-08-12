@@ -1,0 +1,12 @@
+name: exon_core
+description: Shared models and services for Exon platform.
+version: 0.0.1
+publish_to: 'none'
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.12.4
